@@ -49,16 +49,24 @@ a:hover {
 
 .card{
   padding: 100px;
+  text-align: center;
 }
 
 .ucd{
-  padding: 95px;
+  padding: 75px;
+  text-align: center;
 }
 
 .train{
-  padding: 70px;
+  padding: 50px;
+  text-align: center;
 }
 
 .femme{
-  padding: 70px;
+  padding: 60px;
+  text-align: center;
+}
+
+.btn btn-info btn-lg{
+  color: rgb(33,153,67);
 }
