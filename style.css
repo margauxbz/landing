@@ -1,0 +1,64 @@
+#banner{
+  text-align: center;
+  background-image: url("images/templebar.jpg");
+  opacity: 0.8;
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+body{
+  background: rgb(255,255,255);
+  color: black;
+  font-size: 12px;
+  font-family: Georgia;
+}
+h1{
+  font-family: Perpetua titling mt, caps;
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+}
+
+#subtitle{
+  font-family: Chalkduster, fantasy;
+  color: white;
+  font-weight: lighter;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+h2 {
+  font-family: Goudy Old Style;
+  color: rgb(33,153,67);
+  font-weight: bold;
+  font-size: 20px;
+
+}
+
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+.card{
+  padding: 100px;
+}
+
+.ucd{
+  padding: 95px;
+}
+
+.train{
+  padding: 70px;
+}
+
+.femme{
+  padding: 70px;
+}
